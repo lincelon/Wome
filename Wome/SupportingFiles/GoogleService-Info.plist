@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>880441146662-lofm7p7kp5jc4k8v66i8e6rivnn87er7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.880441146662-lofm7p7kp5jc4k8v66i8e6rivnn87er7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCn41fUKlFZAXDWa8-mTgwX9CvdK80Aihg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>880441146662</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mas9company.Wome</string>
+	<key>PROJECT_ID</key>
+	<string>wome-6b077</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wome-6b077.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:880441146662:ios:0f31e36fee2ed5d7fe15e7</string>
+</dict>
+</plist>
